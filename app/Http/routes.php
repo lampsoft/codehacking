@@ -26,3 +26,4 @@ return view('admin.index');
 });
 
 Route::resource('/admin/users', 'AdminUsersController');
+
